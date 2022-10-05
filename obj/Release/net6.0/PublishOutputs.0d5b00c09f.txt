@@ -1,0 +1,5 @@
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\publish\EditorNombres.exe
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\publish\EditorNombres.dll
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\publish\EditorNombres.deps.json
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\publish\EditorNombres.runtimeconfig.json
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\publish\EditorNombres.pdb

@@ -1,0 +1,15 @@
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\EditorNombres.exe
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\EditorNombres.deps.json
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\EditorNombres.runtimeconfig.json
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\EditorNombres.dll
+D:\ZAMIR\Desarrollos\EditorNombres\bin\Release\net6.0\EditorNombres.pdb
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.csproj.AssemblyReference.cache
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.AssemblyInfoInputs.cache
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.AssemblyInfo.cs
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.csproj.CoreCompileInputs.cache
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.dll
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\refint\EditorNombres.dll
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.pdb
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\EditorNombres.genruntimeconfig.cache
+D:\ZAMIR\Desarrollos\EditorNombres\obj\Release\net6.0\ref\EditorNombres.dll
